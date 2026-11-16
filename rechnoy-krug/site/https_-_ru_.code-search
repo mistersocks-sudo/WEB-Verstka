@@ -1,0 +1,58 @@
+# Query: https://ВАШ-ПОДДОМЕН.ru/
+# ContextLines: 1
+
+Результаты: 12 - Файлы 6
+
+rechnoy-krug/site/about.html:
+   7  <meta name="description" content="История пароходства «Речной круг», миссия, безопасность на воде и вакансии для капитанов и матросов.">
+   8: <link rel="canonical" href="https://u993784c.beget.tech/rechnoy-krug/about.html">
+   9  <meta property="og:type" content="website">
+
+  19  <script type="application/ld+json">
+  20: {"@context":"https://schema.org","@type":"WebPage","name":"О пароходстве — Речной круг","url":"https://u993784c.beget.tech/rechnoy-krug/about.html","description":"История пароходства «Речной круг», миссия, безопасность на воде и вакансии для капитанов и матросов.","inLanguage":"ru"}
+  21  </script>
+
+rechnoy-krug/site/contacts.html:
+   7  <meta name="description" content="Адрес, телефон, режим работы касс и форма обратной связи пароходства «Речной круг».">
+   8: <link rel="canonical" href="https://u993784c.beget.tech/rechnoy-krug/contacts.html">
+   9  <meta property="og:type" content="website">
+
+  19  <script type="application/ld+json">
+  20: {"@context":"https://schema.org","@type":"ContactPage","name":"Контакты — Речной круг","url":"https://u993784c.beget.tech/rechnoy-krug/contacts.html","description":"Адрес, телефон, режим работы касс и форма обратной связи пароходства «Речной круг».","inLanguage":"ru"}
+  21  </script>
+
+rechnoy-krug/site/fleet.html:
+   7  <meta name="description" content="Теплоходы и катера пароходства «Речной круг»: вместимость, год постройки и особенности судов.">
+   8: <link rel="canonical" href="https://u993784c.beget.tech/rechnoy-krug/fleet.html">
+   9  <meta property="og:type" content="website">
+
+  19  <script type="application/ld+json">
+  20: {"@context":"https://schema.org","@type":"WebPage","name":"Флот пароходства — Речной круг","url":"https://u993784c.beget.tech/rechnoy-krug/fleet.html","description":"Теплоходы и катера пароходства «Речной круг»: вместимость, год постройки и особенности судов.","inLanguage":"ru"}
+  21  </script>
+
+rechnoy-krug/site/index.html:
+   7  <meta name="description" content="Расписание, цены на билеты и маршруты речных трамваев в Заволжске. Три линии, одиннадцать пристаней, рейсы ежедневно.">
+   8: <link rel="canonical" href="https://u993784c.beget.tech/rechnoy-krug/index.html">
+   9  <meta property="og:type" content="website">
+
+  19  <script type="application/ld+json">
+  20: {"@context":"https://schema.org","@type":"Organization","name":"Речной круг — городское пассажирское пароходство в Заволжске","url":"https://u993784c.beget.tech/rechnoy-krug/index.html","description":"Расписание, цены на билеты и маршруты речных трамваев в Заволжске. Три линии, одиннадцать пристаней, рейсы ежедневно.","inLanguage":"ru"}
+  21  </script>
+
+rechnoy-krug/site/schedule.html:
+   7  <meta name="description" content="Расписание рейсов по трём линиям пароходства «Речной круг»: время отправления, маршрут и длительность.">
+   8: <link rel="canonical" href="https://u993784c.beget.tech/rechnoy-krug/schedule.html">
+   9  <meta property="og:type" content="website">
+
+  19  <script type="application/ld+json">
+  20: {"@context":"https://schema.org","@type":"WebPage","name":"Расписание речных трамваев — Речной круг","url":"https://u993784c.beget.tech/rechnoy-krug/schedule.html","description":"Расписание рейсов по трём линиям пароходства «Речной круг»: время отправления, маршрут и длительность.","inLanguage":"ru"}
+  21  </script>
+
+rechnoy-krug/site/tickets.html:
+   7  <meta name="description" content="Тарифы на проезд и экскурсии, калькулятор стоимости поездки и форма заявки на групповой билет.">
+   8: <link rel="canonical" href="https://u993784c.beget.tech/rechnoy-krug/tickets.html">
+   9  <meta property="og:type" content="website">
+
+  19  <script type="application/ld+json">
+  20: {"@context":"https://schema.org","@type":"WebPage","name":"Цены на билеты — Речной круг","url":"https://u993784c.beget.tech/rechnoy-krug/tickets.html","description":"Тарифы на проезд и экскурсии, калькулятор стоимости поездки и форма заявки на групповой билет.","inLanguage":"ru"}
+  21  </script>
